@@ -1,0 +1,26 @@
+* {
+    font-size: 12px;
+
+}
+
+body {
+    background-color: rgb(255, 251, 236);
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.spinner-border {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    width: 100px;
+    height: 100px;
+    color: rgb(228, 197, 24);
+}
